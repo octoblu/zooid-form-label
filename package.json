@@ -1,6 +1,6 @@
 {
   "name": "zooid-form-label",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "FormLabel",
   "main": "dist/bundle.js",
   "scripts": {
