@@ -5,8 +5,8 @@ import FormLabel from '../src'
 
 storiesOf('FormLabel', module)
   .addWithInfo('Basic', 'added Description', () => (
-    <FormLabel />
+    <FormLabel name="basicLabel">Basic Form Label</FormLabel>
   ), { inline: true })
-  .add('Basic', () => (
-    <FormLabel />
-  ))
+  .addWithInfo('Required', 'added Description', () => (
+    <FormLabel required>Required Form Label</FormLabel>
+  ), { inline: true })

@@ -14,6 +14,8 @@ npm install --save zooid-form-label
 | Prop      | Type   | Default | Description                          |
 | ----------| -------| --------| -------------------------------------|
 | className | string |         | Additional css classes to merge into the component |
+| name | string |         | name attribute. Translates to htmlFor |
+| required | bool | false | Add a "*" for required fields|
 
 
 ## Example
