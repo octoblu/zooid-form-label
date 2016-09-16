@@ -1,9 +1,12 @@
 # zooid-form-label
 
 [![Build Status](https://travis-ci.org/octoblu/zooid-form-label.svg?branch=master)](https://travis-ci.org/octoblu/zooid-form-label)
-[![npm version](https://badge.fury.io/js/zooid-form-label.svg)](http://badge.fury.io/js/zooid-form-label)
-[![Code Climate](https://codeclimate.com/github/octoblu/zooid-form-label.png)](https://codeclimate.com/github/octoblu/zooid-form-label)
+[![Test Coverage](https://codecov.io/gh/octoblu/zooid-form-label/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/zooid-form-label)
+[![Dependency status](http://img.shields.io/david/octoblu/zooid-form-label.svg?style=flat)](https://david-dm.org/octoblu/zooid-form-label)
+[![devDependency Status](http://img.shields.io/david/dev/octoblu/zooid-form-label.svg?style=flat)](https://david-dm.org/octoblu/zooid-form-label#info=devDependencies)
 [![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
+
+[![NPM](https://nodei.co/npm/zooid-form-label.svg?style=flat)](https://npmjs.org/package/zooid-form-label)
 
 ## Install
 ```
